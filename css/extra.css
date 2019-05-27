@@ -1,10 +1,52 @@
+body::before {
+	background: none;
+}
+
 .col-md-9 img {
     max-width: 100%;
     display: inline-block;
     padding: 4px;
     line-height: 1.428571429;
-    background-color: #fff;
     border: 1px solid #ddd;
     border-radius: 2px;
     margin: 3px auto 3px auto;
+}
+
+#contact input {
+	width: 30%;
+	border:1px solid #ddd;
+	margin:0 121px 5px;
+	padding:10px;
+}
+
+#contact textarea {
+	height:200px;
+	max-width:100%;
+	width: 30%;
+	border:1px solid #ddd;
+    resize:none;
+	margin: 0 121px 5px;
+	padding:10px;
+}
+
+#contact button {
+	cursor:pointer;
+	width:30%;
+	border:none;
+	background:#31A5E7;
+	color:#f8f8f8;
+	margin:0 121px 5px;
+	padding:10px;
+	font-size:15px;
+}
+
+#contact button:hover {
+	background:#178ACC;
+	-webkit-transition:background 0.3s ease-in-out;
+	-moz-transition:background 0.3s ease-in-out;
+	transition:background-color 0.3s ease-in-out;
+}
+
+#contact button:active { 
+    box-shadow:inset 0 1px 3px rgba(0, 0, 0, 0.5);
 }
