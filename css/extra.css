@@ -80,6 +80,7 @@ div.cssbox {
   display: inline-block;
 }
 
+/* transition changed for vedvid.github.io */
 span.cssbox_full {
   z-index: 999;
   position: fixed;
@@ -90,7 +91,7 @@ span.cssbox_full {
   left: 0;
   opacity: 0;
   pointer-events: none;
-  transition: opacity 0.5s linear;
+  transition: opacity 0.3s ease-in-out;
 }
 
 span.cssbox_full img {
@@ -142,6 +143,19 @@ a.cssbox_prev {
 /* Changed for vedvid.github.io */
 a.cssbox_next {
   right: 10%;
+}
+
+/* Added for vedvid.github.io */
+img.cssbox_thumb:hover {
+    background:#178ACC;
+	-webkit-transition:background 0.3s ease-in-out;
+	-moz-transition:background 0.3s ease-in-out;
+	transition:background-color 0.3s ease-in-out;
+}
+
+/* Added for vedvid.github.io */
+img.cssbox_thumb:active {
+    background:#157CB7;
 }
 
 a:target ~ a.cssbox_close,
