@@ -147,7 +147,7 @@ a.cssbox_next {
 
 /* Added for vedvid.github.io */
 img.cssbox_thumb:hover {
-    background:#178ACC;
+    background:#31A5E7;
 	-webkit-transition:background 0.3s ease-in-out;
 	-moz-transition:background 0.3s ease-in-out;
 	transition:background-color 0.3s ease-in-out;
@@ -155,7 +155,7 @@ img.cssbox_thumb:hover {
 
 /* Added for vedvid.github.io */
 img.cssbox_thumb:active {
-    background:#157CB7;
+    background:#178ACC;
 }
 
 a:target ~ a.cssbox_close,
