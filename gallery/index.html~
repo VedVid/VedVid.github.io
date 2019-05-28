@@ -8,7 +8,7 @@
         
         
         <link rel="shortcut icon" href="../img/favicon.ico">
-        <title>Other projects - Ved's Hub</title>
+        <title>Gallery - Ved's Hub</title>
         <link href="../css/bootstrap-custom.min.css" rel="stylesheet">
         <link href="../css/font-awesome.min.css" rel="stylesheet">
         <link href="../css/base.css" rel="stylesheet">
@@ -56,11 +56,11 @@
                             <li >
                                 <a href="../libs/">Libraries</a>
                             </li>
-                            <li class="active">
-                                <a href="./">Other projects</a>
-                            </li>
                             <li >
-                                <a href="../gallery/">Gallery</a>
+                                <a href="../other/">Other projects</a>
+                            </li>
+                            <li class="active">
+                                <a href="./">Gallery</a>
                             </li>
                         </ul>
 
@@ -71,12 +71,12 @@
                             </a>
                         </li>
                             <li >
-                                <a rel="next" href="../libs/">
+                                <a rel="next" href="../other/">
                                     <i class="fa fa-arrow-left"></i> Previous
                                 </a>
                             </li>
-                            <li >
-                                <a rel="prev" href="../gallery/">
+                            <li class="disabled">
+                                <a rel="prev" >
                                     Next <i class="fa fa-arrow-right"></i>
                                 </a>
                             </li>
@@ -88,37 +88,69 @@
         <div class="container">
                 <div class="col-md-3"><div class="bs-sidebar hidden-print affix well" role="complementary">
     <ul class="nav bs-sidenav">
-        <li class="main active"><a href="#other-projects">Other projects</a></li>
-            <li><a href="#roguelikedev-does-the-complete-roguelike-tutorial">#RoguelikeDev does the Complete Roguelike Tutorial</a></li>
-            <li><a href="#microblog">Microblog</a></li>
-            <li><a href="#cyrillic2polish">cyrillic2polish</a></li>
+        <li class="main active"><a href="#rogue-robs-trains">Rogue Robs Trains</a></li>
+        <li class="main "><a href="#unnamed-broughlike">Unnamed Broughlike</a></li>
+        <li class="main "><a href="#tiny-gatherer">Tiny Gatherer</a></li>
+        <li class="main "><a href="#humfallrl">HumFallRL</a></li>
+        <li class="main "><a href="#fragility">Fragility</a></li>
+        <li class="main "><a href="#noirrl">NoirRL</a></li>
+        <li class="main "><a href="#rogue-with-purple-heart">Rogue With Purple Heart</a></li>
+        <li class="main "><a href="#not-so-colorful-warrior">(Not so) colorful warrior</a></li>
+        <li class="main "><a href="#fleeing-the-fire">Fleeing the fire</a></li>
+        <li class="main "><a href="#unpabloquest">UnPabloQuest</a></li>
     </ul>
 </div></div>
                 <div class="col-md-9" role="main">
 
-<h2 id="other-projects">Other projects</h2>
-<hr />
-<h3 id="roguelikedev-does-the-complete-roguelike-tutorial">#RoguelikeDev does the Complete Roguelike Tutorial</h3>
-<p>It is the yearly event hosted by <a href="https://www.reddit.com/user/aaron_ds">aaron_ds</a> on <a href="https://www.reddit.com/r/roguelikedev/">/r/roguelikedev</a>.
-In 2017, I decided to participate, using Go programming language to follow the mentioned <a href="http://www.roguebasin.com/index.php?title=Complete_Roguelike_Tutorial,_using_python%2Blibtcod">tutorial</a> as close as possible. I even wrote some <a href="https://github.com/VedVid/roguelikedevDoesTheRoguelikeTutorial2017/wiki">write-ups</a>.
-In 2019 I'm planning to use Pony. And do things on my own.</p>
 <div class="mysmallicon">
-    <a href="https://github.com/VedVid/roguelikedevDoesTheRoguelikeTutorial2017"><img src="../img/gh.png"></a>
+    <h2 id="rogue-robs-trains">Rogue Robs Trains <a href="https://vedvid.github.io/games/#rogue-robs-trains"><img src="https://vedvid.github.io/img/link.png"></a></h2>
 </div>
-
-<p><br /></p>
-<h3 id="microblog">Microblog</h3>
-<p>I am following the excellent flask <a href="https://github.com/miguelgrinberg/microblog">tutorial</a> created by Miguel Grinberg.</p>
+<p><img alt="" src="../img/roguerobstrains1.png" /> <img alt="" src="../img/roguerobstrains2.png" /> <img alt="" src="../img/roguerobstrains3.png" /></p>
+<p><br/></p>
 <div class="mysmallicon">
-    <a href="https://github.com/VedVid/flask_megatutorial"><img src="../img/gh.png"></a>
+    <h2 id="unnamed-broughlike">Unnamed Broughlike <a href="https://vedvid.github.io/games/#unnamed-broughlike"><img src="https://vedvid.github.io/img/link.png"></a></h2>
 </div>
-
-<p><br /></p>
-<h3 id="cyrillic2polish">cyrillic2polish</h3>
-<p>Most of the available tools transcripts Cyrillic script to English. Even the Polish media started to use English forms some time ago. As a remedy, I decided to write a simple tool to transcript and transliterate Cyrillic to Latin alphabet, using simplified PN-ISO standard.</p>
+<p><img alt="" src="../img/broughlike1.png" /></p>
+<p><br/></p>
 <div class="mysmallicon">
-    <a href="https://github.com/VedVid/cyrillic2polish"><img src="../img/gh.png"></a>
-</div></div>
+    <h2 id="tiny-gatherer">Tiny Gatherer <a href="https://vedvid.github.io/games/#tiny-gatherer"><img src="https://vedvid.github.io/img/link.png"></a></h2>
+</div>
+<p><img alt="" src="../img/tinygatherer1.png" /> <img alt="" src="../img/tinygatherer2.png" /></p>
+<p><br/></p>
+<div class="mysmallicon">
+    <h2 id="humfallrl">HumFallRL <a href="https://vedvid.github.io/games/#humfallrl"><img src="https://vedvid.github.io/img/link.png"></a></h2>
+</div>
+<p><img alt="" src="../img/humfallrl1.png" /> <img alt="" src="../img/humfallrl2.png" /> <img alt="" src="../img/humfallrl3.png" /></p>
+<p><br/></p>
+<div class="mysmallicon">
+    <h2 id="fragility">Fragility <a href="https://vedvid.github.io/games/#fragility"><img src="https://vedvid.github.io/img/link.png"></a></h2>
+</div>
+<p><img alt="" src="../img/fragility1.png" /></p>
+<p><br/></p>
+<div class="mysmallicon">
+    <h2 id="noirrl">NoirRL <a href="https://vedvid.github.io/games/#noirrl"><img src="https://vedvid.github.io/img/link.png"></a></h2>
+</div>
+<p><img alt="" src="../img/noirrl1.png" /> <img alt="" src="../img/noirrl2.png" /></p>
+<p><br/></p>
+<div class="mysmallicon">
+    <h2 id="rogue-with-purple-heart">Rogue With Purple Heart <a href="https://vedvid.github.io/games/#rogue-with-purple-heart"><img src="https://vedvid.github.io/img/link.png"></a></h2>
+</div>
+<p><img alt="" src="../img/roguewithpurpleheart1.png" /></p>
+<p><br/></p>
+<div class="mysmallicon">
+    <h2 id="not-so-colorful-warrior">(Not so) colorful warrior <a href="https://vedvid.github.io/games/#not-so-colorful-warrior"><img src="https://vedvid.github.io/img/link.png"></a></h2>
+</div>
+<p><img alt="" src="../img/notsocolorfulwarrior1.png" /> <img alt="" src="../img/notsocolorfulwarrior2.png" /></p>
+<p><br/></p>
+<div class="mysmallicon">
+    <h2 id="fleeing-the-fire">Fleeing the fire <a href="https://vedvid.github.io/games/#fleeing-the-fire"><img src="https://vedvid.github.io/img/link.png"></a></h2>
+</div>
+<p><img alt="" src="../img/fleeingthefire1.png" /></p>
+<p><br/></p>
+<div class="mysmallicon">
+    <h2 id="unpabloquest">UnPabloQuest <a href="https://vedvid.github.io/games/#unpabloquest"><img src="https://vedvid.github.io/img/link.png"></a></h2>
+</div>
+<p><img alt="" src="../img/unpabloquest1.png" /></p></div>
         </div>
 
         <footer class="col-md-12">

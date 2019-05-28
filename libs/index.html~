@@ -8,7 +8,7 @@
         
         
         <link rel="shortcut icon" href="../img/favicon.ico">
-        <title>Other projects - Ved's Hub</title>
+        <title>Libraries - Ved's Hub</title>
         <link href="../css/bootstrap-custom.min.css" rel="stylesheet">
         <link href="../css/font-awesome.min.css" rel="stylesheet">
         <link href="../css/base.css" rel="stylesheet">
@@ -53,11 +53,11 @@
                             <li >
                                 <a href="../games/">Games</a>
                             </li>
-                            <li >
-                                <a href="../libs/">Libraries</a>
-                            </li>
                             <li class="active">
-                                <a href="./">Other projects</a>
+                                <a href="./">Libraries</a>
+                            </li>
+                            <li >
+                                <a href="../other/">Other projects</a>
                             </li>
                             <li >
                                 <a href="../gallery/">Gallery</a>
@@ -71,12 +71,12 @@
                             </a>
                         </li>
                             <li >
-                                <a rel="next" href="../libs/">
+                                <a rel="next" href="../games/">
                                     <i class="fa fa-arrow-left"></i> Previous
                                 </a>
                             </li>
                             <li >
-                                <a rel="prev" href="../gallery/">
+                                <a rel="prev" href="../other/">
                                     Next <i class="fa fa-arrow-right"></i>
                                 </a>
                             </li>
@@ -88,36 +88,32 @@
         <div class="container">
                 <div class="col-md-3"><div class="bs-sidebar hidden-print affix well" role="complementary">
     <ul class="nav bs-sidenav">
-        <li class="main active"><a href="#other-projects">Other projects</a></li>
-            <li><a href="#roguelikedev-does-the-complete-roguelike-tutorial">#RoguelikeDev does the Complete Roguelike Tutorial</a></li>
-            <li><a href="#microblog">Microblog</a></li>
-            <li><a href="#cyrillic2polish">cyrillic2polish</a></li>
+        <li class="main active"><a href="#libraries">Libraries</a></li>
+            <li><a href="#rawig">RAWIG</a></li>
+            <li><a href="#bearlibterminal-pony">bearlibterminal-pony</a></li>
     </ul>
 </div></div>
                 <div class="col-md-9" role="main">
 
-<h2 id="other-projects">Other projects</h2>
+<h2 id="libraries">Libraries</h2>
 <hr />
-<h3 id="roguelikedev-does-the-complete-roguelike-tutorial">#RoguelikeDev does the Complete Roguelike Tutorial</h3>
-<p>It is the yearly event hosted by <a href="https://www.reddit.com/user/aaron_ds">aaron_ds</a> on <a href="https://www.reddit.com/r/roguelikedev/">/r/roguelikedev</a>.
-In 2017, I decided to participate, using Go programming language to follow the mentioned <a href="http://www.roguebasin.com/index.php?title=Complete_Roguelike_Tutorial,_using_python%2Blibtcod">tutorial</a> as close as possible. I even wrote some <a href="https://github.com/VedVid/roguelikedevDoesTheRoguelikeTutorial2017/wiki">write-ups</a>.
-In 2019 I'm planning to use Pony. And do things on my own.</p>
+<h3 id="rawig">RAWIG</h3>
+<p><span style="background-color:#F0BE14; color:white;">&nbsp;&nbsp;beta&nbsp;&nbsp;</span></p>
+<p><em>RAWIG</em> stands for <em>Roguelike Architecture Written In Go</em>.</p>
+<p>For a long time, I was relying on libtcodpy with SDL as the roguelike backend. Later, I started to use an excellent BearLibTerminal library. Last year, I decided to write my own "roguelike architecture" - the goal was to create a universal roguelike template.<br />
+A developer needs to provide very own core mechanics and level generators. Everything else - rendering system, pathfinding and field-of-view algorithms, UI and menus - is already set up.
+RAWIG is easy to use, and almost dependency free - its rendering system relies on BearLibTerminal.<br />
+I used RAWIG to create Rogue Robs Train and Unnamed Broughlike already.</p>
 <div class="mysmallicon">
-    <a href="https://github.com/VedVid/roguelikedevDoesTheRoguelikeTutorial2017"><img src="../img/gh.png"></a>
+    <a href="https://github.com/VedVid/RAWIG"><img src="https://vedvid.github.io/img/gh.png"></a>
 </div>
 
-<p><br /></p>
-<h3 id="microblog">Microblog</h3>
-<p>I am following the excellent flask <a href="https://github.com/miguelgrinberg/microblog">tutorial</a> created by Miguel Grinberg.</p>
+<p><br/></p>
+<h3 id="bearlibterminal-pony">bearlibterminal-pony</h3>
+<p><span style="background-color:#ff4500; color:white;">&nbsp;&nbsp;alpha&nbsp;&nbsp;</span></p>
+<p>I had Pony programming language on my radar for a while already. It provides nice guarantees without much burden, and has easy to use C FFI. Therefore, creating a simple wrapper for BearLibTerminal looks like a nice way to learn a bit more about Pony...</p>
 <div class="mysmallicon">
-    <a href="https://github.com/VedVid/flask_megatutorial"><img src="../img/gh.png"></a>
-</div>
-
-<p><br /></p>
-<h3 id="cyrillic2polish">cyrillic2polish</h3>
-<p>Most of the available tools transcripts Cyrillic script to English. Even the Polish media started to use English forms some time ago. As a remedy, I decided to write a simple tool to transcript and transliterate Cyrillic to Latin alphabet, using simplified PN-ISO standard.</p>
-<div class="mysmallicon">
-    <a href="https://github.com/VedVid/cyrillic2polish"><img src="../img/gh.png"></a>
+    <a href="https://github.com/VedVid/bearlibterminal-pony"><img src="https://vedvid.github.io/img/gh.png"></a>
 </div></div>
         </div>
 
