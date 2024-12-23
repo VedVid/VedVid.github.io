@@ -10,25 +10,42 @@ weight = 1
 
 <div class="mysmallicon">
     <div class="cssbox">
-        <a id="fantasygamecreationkit1" href="#fantasygamecreationkit1"><img class="cssbox_thumb" src="../fantasygamecreationkit1_thumb.png" />
-            <span class="cssbox_full"><img src="../fantasygamecreationkit1.png" /></span>
+        <a id="fantasygamecreationkit1" href="#fantasygamecreationkit1">
+            <img class="cssbox_thumb" src="../fantasygamecreationkit1_thumb.png"/>
+            <span class="cssbox_full">
+                <img src="../fantasygamecreationkit1.png">
+            </span>
         </a>
         <a class="cssbox_close" href="#void"></a>
         <!--<a class="cssbox_prev" href="#tag_prev">&lt;</a>-->
         <a class="cssbox_next" href="#fantasygamecreationkit2">&gt;</a>
     </div>
     <div class="cssbox">
-        <a id="fantasygamecreationkit2" href="#fantasygamecreationkit2"><img class="cssbox_thumb" src="../fantasygamecreationkit2_thumb.png" />
-            <span class="cssbox_full"><img src="../fantasygamecreationkit2.png" /></span>
+        <a id="fantasygamecreationkit2" href="#fantasygamecreationkit2">
+            <img class="cssbox_thumb" src="../fantasygamecreationkit2_thumb.png"/>
+            <span class="cssbox_full">
+                <img src="../fantasygamecreationkit2.png">
+            </span>
         </a>
         <a class="cssbox_close" href="#void"></a>
         <a class="cssbox_prev" href="#fantasygamecreationkit1">&lt;</a>
+        <a class="cssbox_next" href="#fantasygamecreationkit3">&gt;</a>
+    </div>
+    <div class="cssbox">
+        <a id="fantasygamecreationkit3" href="#fantasygamecreationkit3">
+            <img class="cssbox_thumb" src="../fantasygamecreationkit3_thumb.png"/>
+            <span class="cssbox_full">
+                <img src="../fantasygamecreationkit3.png">
+            </span>
+        </a>
+        <a class="cssbox_close" href="#void"></a>
+        <a class="cssbox_prev" href="#fantasygamecreationkit2">&lt;</a>
         <!--<a class="cssbox_next" href="#tag_next">&gt;</a>-->
     </div>
 </div>
 
 Work-in-progress game creation kit. It is heavily inspired by fantasy consoles like PICO-8 and TIC-80. This project aims to provide all the tools usually found in fantasy consoles, such as sprite editor, map editor, sound editor, and simple API, without imposing harsh limitations on user, such as code tokens limit.
-Currently only geometry and text-drawing API are implemented.
+In version 0.2.1, there is implemented API related to geometry, sprites, and text handling. Also, built-in sprite editor is available.
 
 <div class="mysmallicon">
     <a href="https://github.com/VedVid/fantasy-game-creation-kit"><img src="../gh.png"></a>
