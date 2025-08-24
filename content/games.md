@@ -51,6 +51,41 @@ In version 0.2.1, there is implemented API related to geometry, sprites, and tex
     <a href="https://github.com/VedVid/fantasy-game-creation-kit"><img src="../gh.png"></a>
 </div>
 
+# 2D Testracer for Android
+
+<p><span style="background-color:#891909; color:white;">&nbsp;&nbsp;techdemo&nbsp;&nbsp;</span> <span style="background-color:#a4c639; color:white;">&nbsp;&nbsp;android&nbsp;&nbsp;</span> <span style="background-color:#458dc0; color:white;">&nbsp;&nbsp;godot&nbsp;&nbsp;</span></p>
+
+<div class="mysmallicon">
+    <div class="cssbox">
+        <a id="testracer1" href="#testracer1">
+            <img class="cssbox_thumb" src="../testracer1_thumb.png"/>
+            <span class="cssbox_full">
+                <img src="../testracer1.png">
+            </span>
+        </a>
+        <a class="cssbox_close" href="#void"></a>
+        <!--<a class="cssbox_prev" href="#tag_prev">&lt;</a>-->
+        <a class="cssbox_next" href="#testracer2">&gt;</a>
+    </div>
+    <div class="cssbox">
+        <a id="testracer2" href="#testracer2">
+            <img class="cssbox_thumb" src="../testracer2_thumb.png"/>
+            <span class="cssbox_full">
+                <img src="../testracer2.png">
+            </span>
+        </a>
+        <a class="cssbox_close" href="#void"></a>
+        <a class="cssbox_prev" href="#testracer1">&lt;</a>
+        <!--<a class="cssbox_next" href="#tag_next">&gt;</a>-->
+    </div>
+</div>
+
+The goal of this project was to dip the toes into mobile games development; and, ultimately, to create a playable techdemo of an oldschool, Outrun-style racing game – complete with controls typical of mobile racing games, and a basic set of test ads.
+
+<div class="mysmallicon">
+    <a href="https://github.com/VedVid/2D-Racer-for-Android"><img src="../gh.png"></a>
+</div>
+
 # Untitled Strategy Game
 
 <p><span style="background-color:#af3902; color:white;">&nbsp;&nbsp;pre-alpha&nbsp;&nbsp;</span> <span style="background-color:#3572a5; color:white;">&nbsp;&nbsp;python&nbsp;&nbsp;</span></p>
