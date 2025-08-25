@@ -15,9 +15,6 @@ and learned how to:
 - perform a variety of tests types:
     - full tests, focus tests, maintenance tests, regression tests, smoke tests, performance tests, compliance tests, exploratory tests.
 
-Thanks to the previous experience in sales and technical support,  
-the communication with both: clients and developer teams is one of my strengths.
-
 I use a wide array of technologies :
 - Jira, Redmine, Testmo, Notion
 - Android, iOS, web
@@ -25,6 +22,9 @@ I use a wide array of technologies :
 
 Currently learning:
 - testing automation with Playwright
+
+Thanks to the previous experience in sales and technical support,  
+the communication with both: clients and developer teams is one of my strengths.
 
 In my spare time, I develop small [games](/games), and sometimes I create a test suite for them as well.  
 Please see [Fantasy Game Creation Kit](/games#fantasy-game-creation-kit) for example.
