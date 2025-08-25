@@ -1,7 +1,7 @@
 +++
 title = "Other"
 description = "Other projects"
-weight = 2
+weight = 3
 +++
 
 # CCTV Calculator
