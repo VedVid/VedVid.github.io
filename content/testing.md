@@ -4,7 +4,7 @@ description = "Testing experience"
 weight = 2
 +++
 
-Since July 2023, I work as a game tester in [BoomBit](https://boombit.com).
+Since July 2023, I work as a game tester in [BoomBit](https://boombit.com). I also have the [ISTQB FL certificate](../Tomasz_Nowakowski_CTFL.pdf).
 
 During the past years, I tested:
 - a couple dozens of mobile games, from hypercasuals to midcores
@@ -22,6 +22,7 @@ I use a wide array of technologies :
 
 Currently learning:
 - testing automation with Playwright
+- mobile tests with Appium
 
 Thanks to the previous experience in sales and technical support,  
 the communication with both: clients and developer teams is one of my strengths.
