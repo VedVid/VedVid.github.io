@@ -86,6 +86,46 @@ The goal of this project was to dip the toes into mobile games development; and,
     <a href="https://github.com/VedVid/2D-Racer-for-Android"><img src="../gh.png"></a>
 </div>
 
+# UNSURE
+
+<p><span style="background-color:#228b22; color:white;">&nbsp;&nbsp;stable&nbsp;&nbsp;</span> <span style="background-color:#e0b0ff; color:white;">&nbsp;&nbsp;game jam&nbsp;&nbsp;</span> <span style="background-color:#8806ce; color:white;">&nbsp;&nbsp;7drl&nbsp;&nbsp;</span> <span style="background-color:#0079d8; color:white;">&nbsp;&nbsp;windows&nbsp;&nbsp;</span> <span style="background-color:#212121; color:white;">&nbsp;&nbsp;linux&nbsp;&nbsp;</span> <span style="background-color:#ea316e; color:white;">&nbsp;&nbsp;love2d&nbsp;&nbsp;</span> <span style="background-color:#000080; color:white;">&nbsp;&nbsp;lua&nbsp;&nbsp;</span></p>
+
+<div class="mysmallicon">
+    <div class="cssbox">
+        <a id="unsure1" href="#unsure1">
+            <img class="cssbox_thumb" src="../unsure1_thumb.png"/>
+            <span class="cssbox_full">
+                <img src="../unsure1.png">
+            </span>
+        </a>
+        <a class="cssbox_close" href="#void"></a>
+        <!--<a class="cssbox_prev" href="#tag_prev">&lt;</a>-->
+        <a class="cssbox_next" href="#unsure2">&gt;</a>
+    </div>
+    <div class="cssbox">
+        <a id="unsure2" href="#unsure2">
+            <img class="cssbox_thumb" src="../unsure2_thumb.png"/>
+            <span class="cssbox_full">
+                <img src="../unsure2.png">
+            </span>
+        </a>
+        <a class="cssbox_close" href="#void"></a>
+        <a class="cssbox_prev" href="#unsure1">&lt;</a>
+        <!--<a class="cssbox_next" href="#tag_next">&gt;</a>-->
+    </div>
+</div>
+
+Roguelike / interactive fiction / some weird take on point crawler. Made for 7DRL 2025.
+
+It uses a branching-graph map generation, similarly to games like Slay The Spire. The main inspiration, though, was Kerkerkruip – a quite traditional roguelike game, but in clothes of interactive fiction game. I always wanted to make a similar game, but since English is not my native tongue, creating a well written descriptions for actual interactive fiction game was out of a scope for a short game jam. That's why I decided to make a game that relies on UI rather than on descriptions.
+
+I am quite pleased with the result. It is reasonably fun, and writing a dice simulator was particularly engaging for me. Unfortunately, I did not have enough time to iron out all bugs – mainly, game does not reset its state correctly after starting a new run in a single session. It is advised to after finishing a run, just close the game and start it again instead.
+
+<div class="mysmallicon">
+    <a href="https://github.com/VedVid/7drl-2025"><img src="../gh.png"></a>
+    <a href="https://vedor.itch.io/unsure-7drl-2025"><img src="../itchio.png"></a>
+</div>
+
 # Untitled Strategy Game
 
 <p><span style="background-color:#af3902; color:white;">&nbsp;&nbsp;pre-alpha&nbsp;&nbsp;</span> <span style="background-color:#3572a5; color:white;">&nbsp;&nbsp;python&nbsp;&nbsp;</span></p>
