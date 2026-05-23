@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="256"
+   height="256"
+   fill="none"
+   viewBox="0 0 256 256"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="Jira-Dark.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview5"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="7.1367188"
+     inkscape:cx="199.46141"
+     inkscape:cy="117.07061"
+     inkscape:window-width="3840"
+     inkscape:window-height="2066"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <rect
+     width="256"
+     height="256"
+     fill="#242938"
+     rx="60"
+     id="rect1"
+     style="fill:#2c584d;fill-opacity:1" />
+  <defs
+     id="defs5">
+    <linearGradient
+       id="paint0_linear_2_47"
+       x1="47.22"
+       x2="146.333"
+       y1="46.896"
+       y2="145.02"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#387EB8"
+         id="stop2" />
+      <stop
+         offset="1"
+         stop-color="#366994"
+         id="stop3" />
+    </linearGradient>
+    <linearGradient
+       id="paint1_linear_2_47"
+       x1="108.056"
+       x2="214.492"
+       y1="109.905"
+       y2="210.522"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#FFE052"
+         id="stop4" />
+      <stop
+         offset="1"
+         stop-color="#FFC331"
+         id="stop5" />
+    </linearGradient>
+    <linearGradient
+       id="paint0_linear"
+       x1="19.345501"
+       y1="9.0188198"
+       x2="14.2302"
+       y2="14.45"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0.176"
+         stop-color="#0052CC"
+         id="stop4-0" />
+      <stop
+         offset="1"
+         stop-color="#2684FF"
+         id="stop5-9" />
+    </linearGradient>
+    <linearGradient
+       id="paint1_linear"
+       x1="13.5601"
+       y1="15.0525"
+       x2="7.6356201"
+       y2="20.9874"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0.176"
+         stop-color="#0052CC"
+         id="stop6" />
+      <stop
+         offset="1"
+         stop-color="#2684FF"
+         id="stop7" />
+    </linearGradient>
+  </defs>
+  <g
+     id="Icon"
+     transform="matrix(6.7367037,0,0,6.7367037,41.300308,23.581429)">
+    <path
+       id="Vector"
+       d="M 24.664,3 H 12.2603 c 0,2.99443 2.5094,5.43176 5.5924,5.43176 h 2.2943 v 2.12394 c 0,2.9944 2.5095,5.4318 5.5925,5.4318 V 4.04457 C 25.7395,3.45265 25.2735,3 24.664,3 Z"
+       fill="#2684ff" />
+    <path
+       id="Vector_2"
+       d="M 18.5339,8.98877 H 6.13013 c 0,2.99443 2.50943,5.43173 5.59247,5.43173 h 2.2943 v 2.1588 c 0,2.9944 2.5095,5.4318 5.5925,5.4318 V 10.0333 c 0,-0.55707 -0.4661,-1.04453 -1.0755,-1.04453 z"
+       fill="url(#paint0_linear)"
+       style="fill:url(#paint0_linear)" />
+    <path
+       id="Vector_3"
+       d="M 12.4038,15.0125 H 0 c 0,2.9944 2.50943,5.4317 5.59245,5.4317 h 2.29434 v 2.124 c 0,2.9944 2.50941,5.4317 5.59241,5.4317 V 16.057 c 0,-0.5919 -0.5018,-1.0445 -1.0754,-1.0445 z"
+       fill="url(#paint1_linear)"
+       style="fill:url(#paint1_linear)" />
+  </g>
+</svg>
