@@ -1,0 +1,12 @@
+table.skilltable {
+    display: inline-table !important;
+    width: auto !important;
+    table-layout: fixed;
+    border-collapse: collapse;
+}
+
+table.skilltable td {
+    width: 80px;
+    text-align: center;
+    padding: 4px;
+}

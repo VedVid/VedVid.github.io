@@ -1,0 +1,23 @@
+# The URL the site will be built for
+base_url = "https://tomasznowakowski.gitlab.io/tomasz-nowakowski"
+
+title = "Tomasz Nowakowski"
+# default_language = "en"
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = true
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = false
+
+[extra]
+juice_logo_name = "Home"
+juice_logo_path = "At_sign.png"
+juice_extra_menu = [
+    #{ title = "Gitlab", link = "https://gitlab.com/tomasznowakowski/tomasz-nowakowski" }
+]
+# Add page titles here to exclude them from the nav section (case sensitive)
+juice_exclude_menu = [
+    "exclude_from_nav"
+]
+repository_url = "https://gitlab.com/tomasznowakowski/tomasz-nowakowski"
