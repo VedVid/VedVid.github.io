@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 Allow: /
-Sitemap: https://tomasznowakowski.gitlab.io/tomasz-nowakowski/sitemap.xml
+Sitemap: /sitemap.xml
